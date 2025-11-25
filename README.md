@@ -31,7 +31,6 @@
 <p align="center">
 <img title="Flutter" align="center" alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 &nbsp;&nbsp;
-align="center">
 <img title="Dart" align="center" alt="Dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
