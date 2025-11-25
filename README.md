@@ -13,12 +13,12 @@
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<div>
-<h3><b>Total de visitas a este perfil Github:detective:<b></h3>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/wyllamcoelhoads/count.svg"/>
- </p>
-</div>
+<h3 align="center">
+  <b>Total de visitas a este perfil: 🕵️</b>
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wyllamcoelhoads&label=Visualizacoes&color=e95420&style=flat-square" alt="wyllamcoelhoads" />
+</p>
 <br>
 <div>
 <a href="https://github.com/wyllamcoelhoads">
