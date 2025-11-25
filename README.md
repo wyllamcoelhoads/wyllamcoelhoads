@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=wyllamcoelhoads&label=Visualizacoes&color=e95420&style=flat-square" alt="wyllamcoelhoads" />
 </p>
 <br>
-<div>
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyllamcoelhoads&layout=compact&langs_count=100&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wyllamcoelhoads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
