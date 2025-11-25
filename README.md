@@ -31,11 +31,10 @@
 <p align="center">
 <img title="Flutter" align="center" alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 &nbsp;&nbsp;
-<img title="Bash" align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+align="center">
+<img title="Dart" align="center" alt="Dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-&nbsp;&nbsp;
-<img title="C" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 &nbsp;&nbsp;
 <img title="C++" align="center" alt="Java" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 &nbsp;&nbsp;
@@ -53,9 +52,11 @@
 &nbsp;&nbsp;
 <img title="JavaScript" align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;
-<img title="Typescript" align="center" alt="Js" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"> 
-&nbsp;&nbsp;
 <img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;
+<img title="HTML5" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+&nbsp;&nbsp;
+<img title="Bash" align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 &nbsp;&nbsp;
 </p>
 </div>
@@ -63,17 +64,17 @@
 <p align="center">
 <img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 &nbsp;&nbsp;
+<img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+&nbsp;&nbsp;
+<img title="Android Studio" alt="Android Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+&nbsp;&nbsp;
 <img title="VScode" align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 &nbsp;&nbsp;
 <img title="Git" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 &nbsp;&nbsp;
 <img title="Jira" align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
-<img title="Chrome" align="center" alt="Chrome" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg">
-&nbsp;&nbsp;
 <img title="Jupyter" align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-&nbsp;&nbsp;
-<img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 &nbsp;&nbsp;
 </p>
 <br>
