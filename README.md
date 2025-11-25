@@ -64,7 +64,7 @@ align="center">
 <p align="center">
 <img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 &nbsp;&nbsp;
-<img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+<img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 &nbsp;&nbsp;
 <img title="Android Studio" alt="Android Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
 &nbsp;&nbsp;
