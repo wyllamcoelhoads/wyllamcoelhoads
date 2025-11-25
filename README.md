@@ -29,7 +29,7 @@
 <div style="display: inline_block"><br>
 <h3><b>👽👾 Linguagens e Tecnologias:<b></h3>
 <p align="center">
-<img title="Python"  align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img title="Flutter" align="center" alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 &nbsp;&nbsp;
 <img title="Bash" align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 &nbsp;&nbsp;
