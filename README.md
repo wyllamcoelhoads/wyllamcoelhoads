@@ -63,9 +63,7 @@
 <p align="center">
 <img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 &nbsp;&nbsp;
-<span style="background-color: #E95420; padding: 5px; border-radius: 10px; display: inline-block;">
-  <img title="Ubuntu" align="center" alt="Ubuntu" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-white.svg">
-</span>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40">
 &nbsp;&nbsp;
 <img title="Android Studio" alt="Android Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
 &nbsp;&nbsp;
