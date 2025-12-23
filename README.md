@@ -10,7 +10,7 @@
   
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
-<a href="https://www.instagram.com/will.coelho8/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/will.coelho8/" target="_blank"><img src="https://img.shields.io/badge/@will.coelho8-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <h3 align="center">
