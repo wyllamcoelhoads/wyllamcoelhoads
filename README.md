@@ -4,13 +4,13 @@
 
 <p align="left">
 👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na <a href = "https://www.unicesumar.edu.br/">Universidade de Maringa</a>;<br> 
-🪐 Estou cursando <b>Arquitetura de Software</b> na Universidade <a href = "https://www.faculdadevincit.edu.br/">VINCIT</a>;<br> 
-💼 Sou Analista de Sistemas na <a href = "https://www.stone.com.br/">Stone</a>;<br>
+🪐 Pos-graduado em  <b>Arquitetura de Software</b> na Universidade <a href = "https://www.faculdadevincit.edu.br/">VINCIT</a>;<br> 
+💼 Sou Analista de Sistemas na <a href = "https://www.totvs.com/">Totvs</a>;<br>
 📄 Confira meu <a href="https://drive.google.com/file/d/1YKyH67rkE83l2RdXymaO1An0onifImAd/view?usp=drive_link">Curriculo</a>.<br>
   
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
-<a href="https://www.instagram.com/will.coelho8/" target="_blank"><img src="https://img.shields.io/badge/@will.coelho8-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/wlm.clh/" target="_blank"><img src="https://img.shields.io/badge/@will.coelho8-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <h3 align="center">
