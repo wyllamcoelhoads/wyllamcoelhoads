@@ -5,7 +5,7 @@
 <p align="left">
 👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na <a href = "https://www.unicesumar.edu.br/">Universidade de Maringa</a>;<br> 
 🪐 Pos-graduado em  <b>Arquitetura de Software</b> na Universidade <a href = "https://www.faculdadevincit.edu.br/">VINCIT</a>;<br> 
-💼 Sou Analista de Sistemas na <a href = "https://www.totvs.com/">Totvs</a>;<br>
+💼 Sou Analista de Sistemas na <a href = "https://www.linx.com.br/">Linx</a>;<br>
 📄 Confira meu <a href="https://drive.google.com/file/d/1YKyH67rkE83l2RdXymaO1An0onifImAd/view?usp=drive_link">Curriculo</a>.<br>
   
 <h3><b>🔦 Visite minhas redes:<b></h3>
